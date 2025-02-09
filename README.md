@@ -1,8 +1,8 @@
 <img src="https://i.imgur.com/foW4AcU.jpg" height="350" title="HackintoshLogo">
 
-# macOS Sonoma - Hackintosh
+# macOS Sequoia - Hackintosh
 
-**Latest working macOS**: 14.2.1
+**Latest working macOS**: 15.2.0
 
 **Current OpenCore**: 0.9.6
 
